@@ -1,0 +1,21 @@
+.post-container{
+    height: 50%;
+    width: 80%;
+    border: 1px solid black;
+    color: lightcoral;
+    position: relative;
+
+}
+
+.post-comment{
+    border: 2px solid black;
+    position: relative;
+    height: 200px;
+    width: 80%;
+    color: lightgreen;
+
+}
+.new
+{
+    color: black;
+}
